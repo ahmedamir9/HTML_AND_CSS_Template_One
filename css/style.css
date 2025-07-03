@@ -352,15 +352,6 @@ body {
     right: -150px;
     top: -40px;
 }
-@media (max-width:768px){
-.about .about-content .image::before,
-.about .about-content .image::after {
-    display: none;
-    }
-.about .about-content .image  {
-    display: none;
-}
-}
 .about .about-content .image img {
     max-width: 100%;
 }
